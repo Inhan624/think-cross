@@ -1,0 +1,9 @@
+div#test span {
+  color: green;
+}
+div span {
+  color: blue;
+}
+span {
+  color: red;
+}
