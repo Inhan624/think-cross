@@ -42,7 +42,7 @@ const SidebarNav = styled.nav`
   // 꽉채우기
   height: 100%;
 
-  flex: 1; // 로그아웃과 그. ㅚ. 으ㅣ 것들 사이의 공간을 만들어 주기 위한 여백코드~
+  flex: 1; // 로그아웃과 그 외의 것들 사이의 공간을 만들어 주기 위한 여백코드~
   display: flex;
   flex-direction: column;
 
